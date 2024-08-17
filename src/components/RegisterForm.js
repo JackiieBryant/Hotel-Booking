@@ -13,7 +13,7 @@ const RegisterForm = ({handleSubmit, name, setName, email, setEmail, password, s
     </div>
 
     <div className="form-group mb-3">
-        <label> Email</label>
+        <label>Email</label>
         <input
             type="email"
             className="form-control"
